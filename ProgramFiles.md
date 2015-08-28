@@ -1,0 +1,1 @@
+in IAR project settings, $`_`ProgramFiles`_`$ is the environment string for ProgramFiles, such as "C:\Program Files".
